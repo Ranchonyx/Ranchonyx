@@ -1,7 +1,9 @@
 - Hi, I’m @Ranchonyx
-- I’m mostly interested in Low-Level development 
-- I’m looking to collaborate on anything really, I like to experiment a lot.
-- You can reach me via E-Mail.
+- I’m mostly interested in backend development
+- I have a particular fondness for computer languages/formal languages and parsing them
+- I’m looking for genuinely intersting stuff to work on
+- Repetetive tasks are the bane of my existence
+- If you want to contact me, I am available via E-Mail exclusively
 
 <!---
 Ranchonyx/Ranchonyx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
