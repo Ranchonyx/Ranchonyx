@@ -2,9 +2,7 @@
 - I have a mild fondness for parsing computer languages
 - I mess around with Websockets on occasion
 - I dislike UI development
-
 - Despite all of that, I am employed as a full-stack developer
-
 - Repetetive tasks are the bane of my existence
 - If you want to contact me, for some reason unbeknownst to me, I am available via E-Mail exclusively
 
